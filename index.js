@@ -12,7 +12,7 @@ module.exports = test-api-key;
  * @return {String} test-api-key
  */
 
-function zuid(key_length,key_prefix) {
+function test-api-key(key_length,key_prefix) {
     
     if (isNaN(key_length)) {
         throw new Error('error in key-lenght : value is NaN : \"' + key_length + '\"');
