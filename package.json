@@ -1,0 +1,23 @@
+{
+  "name": "test-api-key",
+  "version": "1.0.0",
+  "description": "Create testing api key",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amilaonbitlab/test-api-key.git"
+  },
+  "keywords": [
+    "api-key",
+    "testing"
+  ],
+  "author": "amila-sampath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amilaonbitlab/test-api-key/issues"
+  },
+  "homepage": "https://github.com/amilaonbitlab/test-api-key#readme"
+}
